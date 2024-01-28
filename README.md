@@ -14,8 +14,17 @@
 - Second item
 - Third item
 ### Sample Code
-`code`
+`#include <iostream>`
+
+`int main() {`
+
+`  std::cout << "Design VI Repository";`
+
+`  return 0;`
+
+`}`
+
 ---
 [Sample Link](https://theuselessweb.com)
 
-![alt text](image.jpg)
+![alt text](snowmacaque.jpg)
