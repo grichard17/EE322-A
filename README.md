@@ -1,4 +1,4 @@
-# EE322-A
+# Design VI Repository
 ## Assignment 0
 ### Sample Heading
 **Sample Bold Text**
