@@ -14,8 +14,9 @@
 3. Third item
 
 ### Assigments
-- [Assignment 0](
-
+- [Assignment 0](https://github.com/grichard17/EE322-A/blob/main/README.md)
+- Assignment 1
+- Assignment 2
 
 ### C++ Print Code
 `#include <iostream>`
