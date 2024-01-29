@@ -1,19 +1,23 @@
 # Design VI Repository
-## Assignment 0
-### Sample Heading
-**Sample Bold Text**
+## Hello! My name is Greyson Richards!
+### This repository will serve as an introduction of myself to the class and also catolog my future assignments
+
+**Bold Text**
 
 *Sample Italicized Text*
+
 >Sample Block Quote
+
 ### Sample Ordered List
 1. First item
 2. Second item
 3. Third item
-### Sample Unordered List
-- First item
-- Second item
-- Third item
-### Sample Code
+
+### Learning Objectives
+- 
+
+
+### C++ Print Code
 `#include <iostream>`
 
 `int main() {`
