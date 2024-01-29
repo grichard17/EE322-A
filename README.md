@@ -25,6 +25,6 @@
 `}`
 
 ---
-[Sample Link](https://theuselessweb.com)
+[The Useless Web](https://theuselessweb.com)
 
-![alt text](snowmacaque.jpg)
+![Snow Macaque in Winter Clothes](snowmacaque.jpg)
