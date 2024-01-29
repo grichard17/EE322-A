@@ -8,10 +8,10 @@
 
 >Sample Block Quote
 
-### Sample Ordered List
-1. First item
-2. Second item
-3. Third item
+### Group 16 Team Members
+1. Craig Reimer
+2. Greyson Richards
+3. Leor Yomtobian
 
 ### Assigments
 - [Assignment 0](https://github.com/grichard17/EE322-A/blob/main/README.md)
