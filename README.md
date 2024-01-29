@@ -13,8 +13,8 @@
 2. Second item
 3. Third item
 
-### Learning Objectives
-- 
+### Assigments
+- [Assignment 0](
 
 
 ### C++ Print Code
