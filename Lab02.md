@@ -3,7 +3,7 @@
 The focus of this lab was setting up the Raspberry Pi and the VNC viewer
 
 ---
-**Results
+**Results**
 
 ```
 $ hostname
